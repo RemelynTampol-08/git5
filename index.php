@@ -2,6 +2,11 @@
 
 SESSION_START();
 
+
+$acc_name1="Mark Jastine";
+$acc_password2="supersecured";
+$acc_fullname3="Mark Jastine";
+$acc_address4="Marinduque Ph";
 //create a pre defined username and password
 $acc_name="Mark Jastine";
 $acc_password="supersecured";
